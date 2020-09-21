@@ -8,8 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "algoliasearch": "^4.5.1",
+    "faker": "^5.1.0",
+    "firebase": "^7.21.0",
     "next": "9.5.3",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-instantsearch-dom": "^6.7.0"
   }
 }
